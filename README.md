@@ -1,0 +1,2 @@
+# KataCodeWars
+My KataCodeWars Solutions
