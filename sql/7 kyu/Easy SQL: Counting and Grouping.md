@@ -1,4 +1,4 @@
-[Easy SQL: Counting and Grouping](https://www.codewars.com/kata/594633020a561e329a0000a2)
+[Easy SQL: Counting and Grouping](https://www.codewars.com/kata/easy-sql-counting-and-grouping)
 
 Given a demographics table in the following format:
 
