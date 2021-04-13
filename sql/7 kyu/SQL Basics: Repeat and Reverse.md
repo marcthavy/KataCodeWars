@@ -1,4 +1,4 @@
-[SQL Basics: Repeat and Reverse](https://www.codewars.com/kata/59414360f5c3947364000070/)
+[SQL Basics: Repeat and Reverse](https://www.codewars.com/kata/sql-basics-repeat-and-reverse-1)
 
 Using our monsters table with the following schema:
 
