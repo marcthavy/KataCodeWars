@@ -13,7 +13,7 @@ Return a table with two columns (cuberoot, logarithm) where the values in cubero
 ```sql
 SELECT
   cbrt(number1) cuberoot,
-  log(number2) logarithm
+  ln(number2) logarithm
 FROM
   decimals
 ```
