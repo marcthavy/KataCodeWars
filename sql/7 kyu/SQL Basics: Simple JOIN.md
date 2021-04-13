@@ -1,4 +1,4 @@
-[SQL Basics: Simple JOIN](https://www.codewars.com/kata/5802e32dd8c944e562000020)
+[SQL Basics: Simple JOIN](https://www.codewars.com/kata/sql-basics-simple-join)
 
 For this challenge you need to create a simple SELECT statement that will return all columns from the products table, and join to the companies table so that you can return the company name.
 
