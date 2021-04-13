@@ -1,4 +1,4 @@
-[SQL Basics: Simple JOIN with COUNT](https://www.codewars.com/kata/580918e24a85b05ad000010c)
+[SQL Basics: Simple JOIN with COUNT](https://www.codewars.com/kata/sql-basics-simple-join-with-count)
 
 For this challenge you need to create a simple SELECT statement that will return all columns from the people table, and join to the toys table so that you can return the COUNT of the toys
 
