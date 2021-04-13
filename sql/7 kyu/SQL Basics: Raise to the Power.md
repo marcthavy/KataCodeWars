@@ -12,7 +12,7 @@ Return a table with one column (result) which is the output of number1 raised to
 
 ```sql
 SELECT
-  number1 * number2 result
+  power(number1, number2) result
 FROM
   decimals
 ```
