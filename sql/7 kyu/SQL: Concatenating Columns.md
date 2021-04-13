@@ -20,7 +20,7 @@ Don't forget to add spaces.
 
 ```sql
 SELECT
-  concat(prefix,' ',first,' ',last,' ',suffix) as title
+  concat(prefix,' ',first,' ',last,' ',suffix) title
 FROM
   names
 ```
